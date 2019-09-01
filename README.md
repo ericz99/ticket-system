@@ -1,4 +1,4 @@
-## Ticket System
+## Ticket System - IN DEVELOPMENT
 
 Well developed and easy to use ticket system that allows you to commuicate with your client in a much faster environment!
 
@@ -7,7 +7,6 @@ Well developed and easy to use ticket system that allows you to commuicate with 
 Ticket System requires the following...
 
 - [Node.js (LTS Version)](http://nodejs.org/)
-- [YarnPKG](https://yarnpkg.com/lang/en/docs/install/#windows-stable)
 
 Quick start:
 
